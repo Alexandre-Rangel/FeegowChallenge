@@ -26,6 +26,8 @@ Defina as informações do banco de dados no arquivo .env
 rode o comando 
 ```bash
   php artisan key:generate
+  
+  php artisan migrate
 ```
 
 a seguir inicie o servidor para testes
